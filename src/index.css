@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+/* Optional: light neutral body background to match the form card */
+body {
+  @apply bg-slate-100 text-slate-900;
+}
