@@ -1,5 +1,4 @@
-import { userArr ,checkFeildsFun} from '../data'
-import type{ User} from '../data'
+
 import { Link } from 'react-router-dom'
 type props = {
     userId: string
